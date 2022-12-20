@@ -22,5 +22,7 @@ module.exports = {
     'react/function-component-definition': 0,
 
     '@typescript-eslint/no-unused-vars': 'error',
+
+    'import/extensions': 0,
   },
 };
